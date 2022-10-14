@@ -61,7 +61,7 @@ FRONTEND_URL=${frontend_url}
 PROXY_PORT=443
 PORT=8080
 
-DB_HOST=localhost
+DB_HOST=$frontend_url
 DB_DIALECT=
 DB_USER=${db_user}
 DB_PASS=${db_pass}
