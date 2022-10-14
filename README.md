@@ -14,7 +14,7 @@ git clone https://github.com/helio2907/whaticket-install.git
 Now, all you gotta do is making it executable:
 
 ```bash
-sudo chmod +x ./whaticket-installer/whaticket
+sudo chmod +x ./whaticket-install/whaticket
 ```
 
 ### usage
